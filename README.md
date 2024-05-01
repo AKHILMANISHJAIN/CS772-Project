@@ -1,3 +1,5 @@
+# CS772-Project
+This is taken as a reference from the work of Mohammad Emtiyaz et al (https://github.com/team-approx-bayes/dnn2gp) with some of our own processing.
 # From Deep Neural Network to Gaussian Process (dnn2gp)
 ![dnn2gp schema](https://github.com/team-approx-bayes/dnn2gp/blob/master/figures/dnn2gp_schema.png)
 
